@@ -1,13 +1,5 @@
 # NLP-Word2vec
 
-Note : 06-Natural Language Processing-1&2
-
-Requirement : install TensorFlow datasets :
-
-```python
-pip install tensorflow-datasets
-```
-
 ### How to execute the code ?
 
 1. Copy the repository
@@ -27,3 +19,5 @@ pip install tensorflow-datasets
 ```python
 jupyter notebook
 ```
+
+Note : 06-Natural Language Processing-1&2
